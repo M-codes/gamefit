@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run GameFit pipeline",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "gamefit.pipeline",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
