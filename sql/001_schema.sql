@@ -1,1 +1,2 @@
-SELECT COUNT(*) FROM analytics.vw_library_analysis;
+SELECT COUNT(*)
+FROM analytics.vw_library_analysis;
