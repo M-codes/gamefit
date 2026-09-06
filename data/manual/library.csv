@@ -1,31 +1,31 @@
 game_id,title,platform,storefront,status,personal_rating,purchase_price_aud,purchase_date,playtime_hours,last_played,reason_stopped,would_recommend,play_context
-manual-001,Resident Evil 2 remake,PC,Steam,paused,,,,,,,,
-manual-002,Final Fantasy IX,PC,Steam,completed,,,,,,,,
-manual-003,Resident Evil 3 remake,PC,Steam,paused,,,,,,,,
-manual-004,Sonic Racing Crossworld,PC,Steam,completed,,,,,,,,
-manual-005,Paladins,PC,Steam,paused,,,,,,,,
-manual-006,Street Fighter V,PC,Steam,abandoned,,,,,,,,
-manual-007,Team Sonic Racing,PC,Steam,abandoned,,,,,,,,
-manual-008,R.E.P.O.,PC,Steam,playing,,,,,,,,
-manual-009,Raft,PC,Steam,playing,,,,,,,,
-manual-010,Rayman Origins,PC,Steam,completed,,,,,,,,
-manual-011,PICO PARK,PC,Steam,abandoned,,,,,,,,
-manual-012,Stardew Valley,PC,Steam,paused,,,,,,,,
-manual-013,Littlewood,PC,Steam,abandoned,,,,,,,,
-manual-014,Left 4 Dead 2,PC,Steam,playing,,,,,,,,
-manual-015,Deltarune,PC,Steam,completed,,,,,,,,
-manual-016,Bloons TD 6,PC,Steam,playing,,,,,,,,
-manual-017,Dead Space,PC,Steam,paused,,,,,,,,
-manual-018,Back 4 Blood,PC,Steam,playing,,,,,,,,
-manual-019,Bloons TD Battles,PC,Steam,playing,,,,,,,,
-manual-020,Borderlands 2,PC,Steam,abandoned,,,,,,,,
-manual-021,Castle Crashers,PC,Steam,paused,,,,,,,,
-manual-022,Geometry Dash,PC,Steam,paused,,,,,,,,
-manual-023,Hollow Knight,PC,Steam,completed,,,,,,,,
-manual-024,Resident Evil 6,PC,Steam,paused,,,,,,,,
-manual-025,Terraria,PC,Steam,playing,,,,,,,,
-manual-026,Worms Revolution,PC,Steam,playing,,,,,,,,
-manual-027,World of Tanks Blitz,PC,Steam,playing,,,,,,,,
-manual-028,SUPERVIVE,PC,Steam,playing,,,,,,,,
-manual-029,Tom Clancy's Rainbow Six Siege,PC,Steam,playing,,,,,,,,
-manual-030,Lethal Company,PC,Steam,playing,,,,,,,,
+manual-001,Resident Evil 2,PC,Steam,paused,10,,,,,played before,true,solo
+manual-002,Final Fantasy IX,PC,Steam,completed,10,,,,,,true,solo
+manual-003,Resident Evil 3,PC,Steam,paused,8,,,,,played before,true,solo
+manual-004,Sonic Racing: CrossWorlds,PC,Steam,completed,10,,,,,,true,both
+manual-005,Paladins,PC,Steam,paused,7,0,,,,playing other games,true,multiplayer
+manual-006,Street Fighter V,PC,Steam,abandoned,5,,,,,lost interest,false,solo
+manual-007,Team Sonic Racing™,PC,Steam,abandoned,6,,,,,lost interest,false,solo
+manual-008,R.E.P.O.,PC,Steam,playing,9,,,,,,true,multiplayer
+manual-009,Raft,PC,Steam,paused,8,,,,,friends left,true,both
+manual-010,Rayman Origins,PC,Steam,completed,10,,,,,,true,solo
+manual-011,PICO PARK,PC,Steam,abandoned,4,,,,,friends left,false,multiplayer
+manual-012,Stardew Valley,PC,Steam,paused,6,,,,,playing other games,true,solo
+manual-013,Littlewood,PC,Steam,abandoned,6,,,,,lost interest,false,solo
+manual-014,Left 4 Dead 2,PC,Steam,playing,8,,,,,,true,multiplayer
+manual-015,Deltarune,PC,Steam,completed,10,,,,,,true,solo
+manual-016,Bloons TD 6,PC,Steam,playing,10,,,,,,true,both
+manual-017,Dead Space,PC,Steam,paused,8,,,,,busy,true,solo
+manual-018,Back 4 Blood,PC,Steam,paused,6,,,,,lost interest,true,multiplayer
+manual-019,Bloons TD Battles,PC,Steam,playing,8,0,,,,,false,multiplayer
+manual-020,Borderlands 2,PC,Steam,abandoned,6,0,,,,lost interest,true,both
+manual-021,Castle Crashers,PC,Steam,paused,8,,,,,friends left,true,multiplayer
+manual-022,Geometry Dash,PC,Steam,paused,8,,,,,lost interest,true,solo
+manual-023,Hollow Knight,PC,Steam,completed,9,,,,,,true,solo
+manual-024,Resident Evil 6,PC,Steam,paused,5,,,,,friends left,false,multiplayer
+manual-025,Terraria,PC,Steam,playing,6,,,,,,true,both
+manual-026,Worms Revolution,PC,Steam,paused,7,,,,,lost interest,true,both
+manual-027,World of Tanks Blitz,PC,Steam,paused,7,,,,,friends left,true,multiplayer
+manual-028,SUPERVIVE,PC,Steam,paused,6,0,,,,friends left,false,multiplayer
+manual-029,Tom Clancy's Rainbow Six Siege,PC,Steam,paused,4,0,,,,toxic,false,multiplayer
+manual-030,Lethal Company,PC,Steam,paused,6,,,,,friends left,true,multiplayer
