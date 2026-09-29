@@ -39,6 +39,25 @@ An adjustable minimum-rating parameter has been specified for the shortlist; Ver
 
 The initial shortlist cutoff is **8/10**. The planned adjustable control allows the user to change that cutoff without changing the saved ratings.
 
+## Dashboard screenshots
+
+### Overview
+Game status and playtime, with interactive filtering.
+
+![GameFit overview](docs/screenshots/overview.png)
+
+### Enjoyment vs Time
+Personal ratings compared with recorded playtime.
+Selecting a game reveals its details and stopping reason.
+
+![Enjoyment versus playtime](docs/screenshots/enjoyment-vs-time.png)
+
+### Play Next
+A shortlist of playing or paused games, filtered by
+an adjustable minimum personal rating and play context.
+
+![Play Next shortlist](docs/screenshots/play-next.png)
+
 ## Data sources
 
 | Source | Contribution |
