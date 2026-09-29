@@ -50,13 +50,13 @@ Game status and playtime, with interactive filtering.
 Personal ratings compared with recorded playtime.
 Selecting a game reveals its details and stopping reason.
 
-![Enjoyment versus playtime](docs/screenshots/Enjoyment vs Time.png)
+![Enjoyment versus playtime](docs/screenshots/EnjoymentvsTime.png)
 
 ### Play Next
 A shortlist of playing or paused games, filtered by
 an adjustable minimum personal rating and play context.
 
-![Play Next shortlist](docs/screenshots/Play Next.png)
+![Play Next shortlist](docs/screenshots/PlayNext.png)
 
 ## Data sources
 
