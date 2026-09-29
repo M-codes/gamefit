@@ -27,7 +27,7 @@ The current dataset contains **30 manually labelled games**, matched against an 
 - A game details table for exploring individual games and stopping reasons.
 - A **Play Next** shortlist based on playing/paused status and personal rating.
 
-An adjustable minimum-rating parameter has been specified for the shortlist; its behaviour is still awaiting verification. The shortlist uses explicit rules, not a trained machine-learning model.
+An adjustable minimum-rating parameter has been specified for the shortlist; Verified that changing the minimum rating from 9 to 6 updates the shortlist correctly. The shortlist uses explicit rules, not a trained machine-learning model.
 
 ## Report pages
 
@@ -203,7 +203,7 @@ The scatter chart showed high personal ratings at both low and high playtimes. T
 
 ## Next milestones
 
-- [ ] Verify the minimum-rating parameter at 9 and 6, including exclusion of unrated games.
+- [X] Verify the minimum-rating parameter at 9 and 6, including exclusion of unrated games.
 - [ ] Confirm the fixed rating filter is removed when enabling the adjustable cutoff.
 - [ ] Add report screenshots and a short explanation of each page.
 - [ ] Document the exact extraction-to-refresh command sequence from the current code.
